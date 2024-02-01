@@ -10,7 +10,6 @@
     "run-migration": "npx sequelize-cli db:migrate",
     "undo-migration": "npx sequelize-cli db:migrate:undo",
     "undo-all-migration": "npx sequelize-cli db:migrate:undo:all",
-    "run-seed": "npx sequelize-cli db:seed",
     "run-all-seed": "npx sequelize-cli db:seed:all",
     "undo-seed": "npx sequelize-cli db:seed:undo",
     "undo-all-seed": "npx sequelize-cli db:seed:undo:all"
